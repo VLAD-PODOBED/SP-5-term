@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Labs\System_programming\Labs\Lab3\OS11_DLL\OS11_HTAPI\Element.h(17,3): warning C4091: '__declspec(dllexport)': ignored on left of 'ht::Element' when no variable is declared
+C:\Labs\System_programming\Labs\Lab3\OS11_DLL\OS11_HTAPI\HT.h(44,3): warning C4091: '__declspec(dllexport)': ignored on left of 'ht::HtHandle' when no variable is declared
+  OS11_04.vcxproj -> C:\Labs\System_programming\Labs\Lab3\OS11_DLL\Debug\OS11_04.exe

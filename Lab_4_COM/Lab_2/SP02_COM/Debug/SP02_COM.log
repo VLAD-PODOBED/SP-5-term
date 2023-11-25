@@ -1,0 +1,5 @@
+﻿  Registry.cpp
+  LINK : не найден или не выполнена сборка D:\сп\Lab_4_COM\Lab_2\Debug\SP02_COM.dll при последней инкрементной компоновке; выполняется полная компоновка
+     Создается библиотека D:\сп\Lab_4_COM\Lab_2\Debug\SP02_COM.lib и объект D:\сп\Lab_4_COM\Lab_2\Debug\SP02_COM.exp
+SP02_COM.exp : warning LNK4070: директива /OUT:SP02.dll в .EXP отличается от имени выходного файла "D:\сп\Lab_4_COM\Lab_2\Debug\SP02_COM.dll"; директива игнорируется
+  SP02_COM.vcxproj -> D:\сп\Lab_4_COM\Lab_2\Debug\SP02_COM.dll

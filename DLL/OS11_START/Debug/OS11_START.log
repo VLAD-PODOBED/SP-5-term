@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\сп\DLL\OS11_HTAPI\Element.h(17,3): warning C4091: __declspec(dllexport): пропускается слева от "ht::Element", когда ни одна переменная не объявлена
+D:\сп\DLL\OS11_HTAPI\HT.h(44,3): warning C4091: __declspec(dllexport): пропускается слева от "ht::HtHandle", когда ни одна переменная не объявлена
+  OS11_START.vcxproj -> D:\сп\DLL\Debug\OS11_START.exe

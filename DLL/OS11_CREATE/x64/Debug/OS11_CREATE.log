@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\сп\DLL\OS11_HTAPI\Element.h(17,3): warning C4091: __declspec(dllexport): пропускается слева от "ht::Element", когда ни одна переменная не объявлена
+D:\сп\DLL\OS11_HTAPI\HT.h(44,3): warning C4091: __declspec(dllexport): пропускается слева от "ht::HtHandle", когда ни одна переменная не объявлена
+D:\сп\DLL\OS11_CREATE\main.cpp(53,72): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\сп\DLL\OS11_CREATE\main.cpp(116,68): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+  OS11_CREATE.vcxproj -> D:\сп\DLL\x64\Debug\OS11_CREATE.exe
